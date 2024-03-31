@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1150364905891954798/1200154532995420270/Frame_3.png" align="center" width="100px">
+    <img src="https://avatars.githubusercontent.com/u/157744001" align="center" width="100px">
 </p>
 
 <h1 align="center">Wakly</h1>
